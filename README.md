@@ -53,7 +53,7 @@ Milestones:
 
 ## 📸 Screenshots
 
-> (Можно прикрепить скрин из GitHub Pages)
+![Screenshot](./assets/screenshot.png)
 
 ---
 
